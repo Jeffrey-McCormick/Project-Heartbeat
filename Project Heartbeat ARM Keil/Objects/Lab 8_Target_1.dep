@@ -1,0 +1,20 @@
+Dependencies for Project 'Lab 8', Target 'Target_1': (DO NOT MODIFY !)
+CompilerVersion: 6240000::V6.24::ARMCLANG
+F (.\Lab_8_Code.c)(0x69B9ED74)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/MKL25Z128xxx4-I./RTE/_Target_1-I"C:/Program Files/Keil/MDK-Arm/Packs/ARM/CMSIS/6.2.0/CMSIS/Core/Include"-I"C:/Program Files/Keil/MDK-Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.1/Device/Include"-D__UVISION_VERSION="543" -DMKL25Z128xxx4 -D_RTE_-o ./objects/lab_8_code.o -MMD)
+I (C:\Program Files\Keil\MDK-Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.1\Device\Include\MKL25Z4.h)(0x696154EB)
+I (C:\Program Files\Keil\MDK-Arm\Packs\ARM\CMSIS\6.2.0\CMSIS\Core\Include\core_cm0plus.h)(0x6961545C)
+I (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x696154EB)
+F (.\lcd_lib_4bit_20b.c)(0x69B8BC74)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/MKL25Z128xxx4-I./RTE/_Target_1-I"C:/Program Files/Keil/MDK-Arm/Packs/ARM/CMSIS/6.2.0/CMSIS/Core/Include"-I"C:/Program Files/Keil/MDK-Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.1/Device/Include"-D__UVISION_VERSION="543" -DMKL25Z128xxx4 -D_RTE_-o ./objects/lcd_lib_4bit_20b.o -MMD)
+I (C:\Program Files\Keil\MDK-Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.1\Device\Include\MKL25Z4.h)(0x696154EB)
+I (C:\Program Files\Keil\MDK-Arm\Packs\ARM\CMSIS\6.2.0\CMSIS\Core\Include\core_cm0plus.h)(0x6961545C)
+I (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x696154EB)
+F (..\Lab 3 - LCD\Lab3.c)(0x69B20340)()
+F (..\Lab 1\lab1_led_cycle.c)(0x69683AA7)()
+F (..\Lab 1\flashled.c)(0x69681F5F)()
+F (..\Lab 7b\Lab_7b_Code.c)(0x69AF7C04)()
+F (RTE/Device/MKL25Z128xxx4/startup_MKL25Z4.s)(0x696154EB)(--target=arm-arm-none-eabi -mcpu=cortex-m0plus -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/Device/MKL25Z128xxx4-I./RTE/_Target_1-I"C:/Program Files/Keil/MDK-Arm/Packs/ARM/CMSIS/6.2.0/CMSIS/Core/Include"-I"C:/Program Files/Keil/MDK-Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.1/Device/Include"-Wa,armasm,--pd,"__UVISION_VERSION SETA 543" -Wa,armasm,--pd,"MKL25Z128xxx4 SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_mkl25z4.o)
+F (RTE/Device/MKL25Z128xxx4/system_MKL25Z4.c)(0x696154EB)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/MKL25Z128xxx4-I./RTE/_Target_1-I"C:/Program Files/Keil/MDK-Arm/Packs/ARM/CMSIS/6.2.0/CMSIS/Core/Include"-I"C:/Program Files/Keil/MDK-Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.1/Device/Include"-D__UVISION_VERSION="543" -DMKL25Z128xxx4 -D_RTE_-o ./objects/system_mkl25z4.o -MMD)
+I (C:\Program Files\Keil\MDK-Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.1\Device\Include\MKL25Z4.h)(0x696154EB)
+I (C:\Program Files\Keil\MDK-Arm\Packs\ARM\CMSIS\6.2.0\CMSIS\Core\Include\core_cm0plus.h)(0x6961545C)
+I (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x696154EB)
+F (RTE/Device/MKL25Z128xxx4/system_MKL25Z4.h)(0x696154EB)()
